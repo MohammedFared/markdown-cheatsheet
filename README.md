@@ -121,13 +121,13 @@ Content Cell  | Content Cell | Content Cell
     Markup : ```javascript
              ```
 
-* Bullet list
+* Bullet list       * Bullet list 2
     * Nested bullet
         * Sub-nested bullet etc
 * Bullet list item 2
 
 ~~~
- Markup : * Bullet list
+ Markup : * Bullet list       * Bullet list 2
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
